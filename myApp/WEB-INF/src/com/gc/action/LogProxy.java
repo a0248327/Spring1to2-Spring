@@ -18,17 +18,15 @@ public class LogProxy implements InvocationHandler {
 
 	public Object bind(Object delegate) {
 		this.delegate = delegate;
-		return Proxy.newProxyInstance(delegate.getClass().getClassLoader(),
-				delegate.getClass().getInterfaces(), this);
+		return Proxy.newProxyInstance(delegate.getClass().getClassLoader(), delegate.getClass().getInterfaces(), this);
 	}
 
-	public Object invoke(Object proxy, Method method, Object[] args)
-			throws Throwable {
+	public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
 		Object result = null;
 		try {
-			logger.log(Level.INFO, args[0] + " ¿ªÊ¼ÉóºËÊý¾Ý....");
+			logger.log(Level.INFO, args[0] + " ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½....");
 			result = method.invoke(delegate, args);
-			logger.log(Level.INFO, args[0] + " ÉóºËÊý¾Ý½áÊø....");
+			logger.log(Level.INFO, args[0] + " ï¿½ï¿½ï¿½ï¿½ï¿½Ý½ï¿½ï¿½ï¿½....");
 		} catch (Exception e) {
 			logger.log(Level.INFO, e.toString());
 		}

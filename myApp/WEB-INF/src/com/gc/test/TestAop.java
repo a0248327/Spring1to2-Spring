@@ -12,16 +12,14 @@ import com.gc.action.Logic2;
 import com.gc.impl.LogicInterface;
 
 public class TestAop {
-	public static void main(String[] args) throws InstantiationException,
-			IllegalAccessException, ClassNotFoundException {
-		ApplicationContext actx = new FileSystemXmlApplicationContext(
-				"exception_config.xml");
+	public static void main(String[] args) throws InstantiationException, IllegalAccessException, ClassNotFoundException {
+		ApplicationContext actx = new FileSystemXmlApplicationContext("exception_config.xml");
 		LogicInterface logic = (LogicInterface) actx.getBean("logic1");
 		// Logic2 logic2 = (Logic2)actx.getBean("logic2");
 		try {
-			logic.doInsert("ÕÅÈý");
-			logic.doUpdate("ÀîËÄ");
-			logic.doDelete("ÍõÎå");
+			logic.doInsert("ï¿½ï¿½ï¿½ï¿½");
+			logic.doUpdate("ï¿½ï¿½ï¿½ï¿½");
+			logic.doDelete("ï¿½ï¿½ï¿½ï¿½");
 		} catch (Exception ex) {
 
 		}

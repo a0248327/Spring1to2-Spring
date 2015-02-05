@@ -14,8 +14,7 @@ import org.springframework.aop.AfterReturningAdvice;
 public class LogAfter implements AfterReturningAdvice {
 	private Logger logger = Logger.getLogger(this.getClass().getName());
 
-	public void afterReturning(Object object, Method method, Object[] args,
-			Object target) throws Throwable {
-		logger.log(Level.INFO, args[0] + " ÉóºËÊý¾ÝÍê³É....");
+	public void afterReturning(Object object, Method method, Object[] args, Object target) throws Throwable {
+		logger.log(Level.INFO, args[0] + " ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½....");
 	}
 }

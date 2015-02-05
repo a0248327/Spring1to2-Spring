@@ -14,8 +14,7 @@ import org.springframework.aop.MethodBeforeAdvice;
 public class LogBefore implements MethodBeforeAdvice {
 	private Logger logger = Logger.getLogger(this.getClass().getName());
 
-	public void before(Method method, Object[] args, Object target)
-			throws Throwable {
-		logger.log(Level.INFO, args[0] + " ¿ªÊ¼ÉóºËÊý¾Ý....");
+	public void before(Method method, Object[] args, Object target) throws Throwable {
+		logger.log(Level.INFO, args[0] + " ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½....");
 	}
 }

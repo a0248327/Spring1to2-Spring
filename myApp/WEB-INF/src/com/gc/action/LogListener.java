@@ -16,12 +16,10 @@ public class LogListener implements ApplicationListener {
 
 	public void onApplicationEvent(ApplicationEvent event) {
 		if (event instanceof LogEvent) {
-			SimpleDateFormat format = new SimpleDateFormat(
-					"yyyy-MM-dd HH:mm:ss");
+			SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 			format.setLenient(false);
 			String currentDate = format.format(new Date());
-			System.out.println("Êä³öÊ±¼ä£º" + currentDate + " Êä³öÄÚÈÝ£º"
-					+ event.toString());
+			System.out.println("ï¿½ï¿½ï¿½Ê±ï¿½ä£º" + currentDate + " ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý£ï¿½" + event.toString());
 		}
 	}
 }

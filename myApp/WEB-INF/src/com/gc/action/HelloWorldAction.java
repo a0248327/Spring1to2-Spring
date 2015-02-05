@@ -33,10 +33,10 @@ public class HelloWorldAction extends SimpleFormController {
 	// public ModelAndView handleRequest(HttpServletRequest req,
 	// HttpServletResponse res)
 	// throws ServletException, IOException {
-	public ModelAndView onSubmit(Object command, BindException errors)
-			throws Exception {
+	public ModelAndView onSubmit(Object command, BindException errors) throws Exception {
 		HelloWorld helloWorld = (HelloWorld) command;
-		// //String user = RequestUtils.getRequiredStringParameter(req, "msg");
+		// //String user = RequestUtils.getRequiredStringParameter(req,
+		// "msg");
 		// Map model = new HashMap();
 		// //System.out.println(helloWorld.getMsg());
 		// model.put("helloWorld", helloWorld.getMsg());
@@ -47,9 +47,11 @@ public class HelloWorldAction extends SimpleFormController {
 		// }
 		Map model = errors.getModel();
 		model.put("helloWorld", helloWorld.getMsg());
-		// if (helloWorld != null && helloWorld.getMsg().length() > 10 ) {
-		// errors.rejectValue("msg", "", null, "»¶Ó­Óï²»ÄÜ´óÓÚ10¸ö×Ö·û");
-		// //return new ModelAndView(new RedirectView("input.jsp"), model);
+		// if (helloWorld != null && helloWorld.getMsg().length() > 10 )
+		// {
+		// errors.rejectValue("msg", "", null, "ï¿½ï¿½Ó­ï¿½ï²»ï¿½Ü´ï¿½ï¿½ï¿½10ï¿½ï¿½ï¿½Ö·ï¿½");
+		// //return new ModelAndView(new RedirectView("input.jsp"),
+		// model);
 		// return new ModelAndView(getViewPage(), model);
 		// } else {
 		//
@@ -57,25 +59,31 @@ public class HelloWorldAction extends SimpleFormController {
 		// }
 	}
 
-	// public ModelAndView insert(HttpServletRequest req, HttpServletResponse
+	// public ModelAndView insert(HttpServletRequest req,
+	// HttpServletResponse
 	// res, String className) throws ServletRequestBindingException {
-	// String helloWorld = RequestUtils.getRequiredStringParameter(req, "msg");
+	// String helloWorld = RequestUtils.getRequiredStringParameter(req,
+	// "msg");
 	// Map model = new HashMap();
 	// model.put("helloWorld", "insert:" + helloWorld);
 	// return new ModelAndView(getViewPage(), model);
 	// }
 	//
-	// public ModelAndView update(HttpServletRequest req, HttpServletResponse
+	// public ModelAndView update(HttpServletRequest req,
+	// HttpServletResponse
 	// res) throws ServletRequestBindingException {
-	// String helloWorld = RequestUtils.getRequiredStringParameter(req, "msg");
+	// String helloWorld = RequestUtils.getRequiredStringParameter(req,
+	// "msg");
 	// Map model = new HashMap();
 	// model.put("helloWorld", "update:" + helloWorld);
 	// return new ModelAndView(getViewPage(), model);
 	// }
 	//
-	// public ModelAndView delete(HttpServletRequest req, HttpServletResponse
+	// public ModelAndView delete(HttpServletRequest req,
+	// HttpServletResponse
 	// res) throws ServletRequestBindingException {
-	// String helloWorld = RequestUtils.getRequiredStringParameter(req, "msg");
+	// String helloWorld = RequestUtils.getRequiredStringParameter(req,
+	// "msg");
 	// Map model = new HashMap();
 	// model.put("helloWorld", "delete:" + helloWorld);
 	// return new ModelAndView(getViewPage(), model);

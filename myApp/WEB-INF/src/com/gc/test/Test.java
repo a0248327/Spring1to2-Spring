@@ -20,9 +20,9 @@ public class Test {
 		int[] num2 = { 3, 9, 13, 21, 27, 29, 13 };// 35
 		int[] num3 = { 4, 7, 10, 16, 17, 21, 9 };// 36
 
-		int[] numall1 = new int[32];// ÁÐ³öÇ°3ÆÚ¶¼³öÏÖ¹ýµÄºÅÂë
-		int[] numall2 = new int[32];// ÁÐ³öÉÏÆÚ²îÖµ
-		int[] numall3 = new int[32];// ÁÐ³öÉÏÉÏÆÚ²îÖµ
+		int[] numall1 = new int[32];// ï¿½Ð³ï¿½Ç°3ï¿½Ú¶ï¿½ï¿½ï¿½ï¿½Ö¹ï¿½Äºï¿½ï¿½ï¿½
+		int[] numall2 = new int[32];// ï¿½Ð³ï¿½ï¿½ï¿½ï¿½Ú²ï¿½Öµ
+		int[] numall3 = new int[32];// ï¿½Ð³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú²ï¿½Öµ
 		int[] kill = new int[32];
 		int[] chong3 = new int[32];
 		int[] numchong2 = new int[10000];
@@ -51,7 +51,7 @@ public class Test {
 		int k6 = 0;
 		int k7 = 0;
 		int k8 = 0;
-		// ÁÐ³öÇ°3ÆÚ¶¼³öÏÖ¹ýµÄºÅÂë
+		// ï¿½Ð³ï¿½Ç°3ï¿½Ú¶ï¿½ï¿½ï¿½ï¿½Ö¹ï¿½Äºï¿½ï¿½ï¿½
 		for (int i = 0; i < num1.length - 1; i++) {
 			// System.out.print(num1[i] + " ");
 			numall1[k1++] = num1[i];
@@ -85,37 +85,37 @@ public class Test {
 				numall1[k1++] = num3[j];
 			}
 		}
-		System.out.print("Ç°3ÆÚ¶¼³öÏÖ¹ýµÄºÅÂë£º");
+		System.out.print("Ç°3ï¿½Ú¶ï¿½ï¿½ï¿½ï¿½Ö¹ï¿½Äºï¿½ï¿½ë£º");
 		sort(numall1);
-		// ÁÐ³öÉÏÆÚ²îÖµ
+		// ï¿½Ð³ï¿½ï¿½ï¿½ï¿½Ú²ï¿½Öµ
 		for (int j = 0; j < num3.length - 2; j++) {
 			for (int i = j + 1; i < num3.length - 1; i++) {
 				// System.out.print(num3[i] - num3[j] + " ");
 				numall2[k2++] = num3[i] - num3[j];
 			}
 		}
-		System.out.print("ÉÏÆÚ²îÖµ£º");
+		System.out.print("ï¿½ï¿½ï¿½Ú²ï¿½Öµï¿½ï¿½");
 		sort(numall2);
-		// ÁÐ³öÉÏÉÏÆÚ²îÖµ
+		// ï¿½Ð³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú²ï¿½Öµ
 		for (int j = 0; j < num2.length - 2; j++) {
 			for (int i = j + 1; i < num2.length - 1; i++) {
 				// System.out.print(num2[i] - num2[j] + " ");
 				numall3[k3++] = num2[i] - num2[j];
 			}
 		}
-		System.out.print("ÉÏÉÏÆÚ²îÖµ£¨ÖØµã£©£º");
+		System.out.print("ï¿½ï¿½ï¿½ï¿½ï¿½Ú²ï¿½Öµï¿½ï¿½ï¿½Øµã£©ï¿½ï¿½");
 		sort(numall3);
-		// É±ºÅ
-		// ÉÏÆÚ²îÖµ×÷ÎªÉ±ºÅ
-		// ÓÃÉÏ¶þÆÚË³Ðò¿ª½±ºÅÂëÒ»Ò»¶ÔÓ¦Ïà¼õµÄ¾ø¶ÔÖµ
+		// É±ï¿½ï¿½
+		// ï¿½ï¿½ï¿½Ú²ï¿½Öµï¿½ï¿½ÎªÉ±ï¿½ï¿½
+		// ï¿½ï¿½ï¿½Ï¶ï¿½ï¿½ï¿½Ë³ï¿½ò¿ª½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»Ò»ï¿½ï¿½Ó¦ï¿½ï¿½ï¿½ï¿½Ä¾ï¿½ï¿½Öµ
 		for (int i = 0; i < num3.length - 1; i++) {
 			kill[k7++] = Math.abs(num3[i] - num2[i]);
 		}
-		// ÉÏÆÚ¿ª½±ºÅÂë¼õÈ¥±¾ÆÚÀ¶Çò
+		// ï¿½ï¿½ï¿½Ú¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		for (int i = 0; i < num3.length - 1; i++) {
 			kill[k7++] = Math.abs(num3[i] - num3[6]);
 		}
-		// ÉÏÆÚ¿ª½±ºÅÂë¼õÈ¥±¾ÆÚºÍÖµµÄ²ð·ÖºÏÖµ,Èç¹û²îÖµÏà¼õÎª¸ºÊýµÄ»°±ØÐë¼ÓÉÏ£³£³
+		// ï¿½ï¿½ï¿½Ú¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¥ï¿½ï¿½ï¿½Úºï¿½Öµï¿½Ä²ï¿½Öºï¿½Öµ,ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½ï¿½Îªï¿½ï¿½ï¿½ï¿½Ä»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï£ï¿½ï¿½ï¿½
 		int kill1 = 0;
 		int kill2 = 0;
 		for (int i = 0; i < num3.length - 1; i++) {
@@ -129,11 +129,10 @@ public class Test {
 			kill2 = kill1 / 10 + kill1 % 10;
 		}
 		for (int i = 0; i < num3.length - 1; i++) {
-			kill[k7++] = (num3[i] - kill2) < 0 ? (num3[i] - kill2 + 33)
-					: (num3[i] - kill2);
+			kill[k7++] = (num3[i] - kill2) < 0 ? (num3[i] - kill2 + 33) : (num3[i] - kill2);
 		}
 		kill1 = 0;
-		// ÉÏÆÚ¿ª½±ºÅÂë¼õÈ¥µ±ÆÚÎ²ÊýºÏÖµµÄ²ð·ÖºÏÖµ,Èç¹û²îÖµÏà¼õÎª¸ºÊýµÄ»°±ØÐë¼ÓÉÏ£³£³
+		// ï¿½ï¿½ï¿½Ú¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¥ï¿½ï¿½ï¿½ï¿½Î²ï¿½ï¿½ï¿½Öµï¿½Ä²ï¿½Öºï¿½Öµ,ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½ï¿½Îªï¿½ï¿½ï¿½ï¿½Ä»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï£ï¿½ï¿½ï¿½
 		for (int i = 0; i < num3.length - 1; i++) {
 			if (num3[i] >= 10) {
 				kill1 += num3[i] % 10;
@@ -149,10 +148,9 @@ public class Test {
 			kill2 = kill1 / 10 + kill1 % 10;
 		}
 		for (int i = 0; i < num3.length - 1; i++) {
-			kill[k7++] = (num3[i] - kill2) < 0 ? (num3[i] - kill2 + 33)
-					: (num3[i] - kill2);
+			kill[k7++] = (num3[i] - kill2) < 0 ? (num3[i] - kill2 + 33) : (num3[i] - kill2);
 		}
-		System.out.print("É±ºÅÓÐ£º");
+		System.out.print("É±ï¿½ï¿½ï¿½Ð£ï¿½");
 		sort(kill);
 		for (int i = 1; i < 34; i++) {
 			int g = 0;
@@ -165,9 +163,9 @@ public class Test {
 				chong3[k8++] = i;
 			}
 		}
-		System.out.print("É±ºÅºóµÄÊ£ÓàºÅÂëÓÐ(ÖØµã)£º");
+		System.out.print("É±ï¿½Åºï¿½ï¿½Ê£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½Øµï¿½)ï¿½ï¿½");
 		sort(chong3);
-		// ÁÐ³öÕâ4ÖÖ·½Ê½µÄÖØºÅºÍÕâ4ÖÖ·½Ê½¶¼Ã»ÓÐµÄºÅ
+		// ï¿½Ð³ï¿½ï¿½ï¿½4ï¿½Ö·ï¿½Ê½ï¿½ï¿½ï¿½ØºÅºï¿½ï¿½ï¿½4ï¿½Ö·ï¿½Ê½ï¿½ï¿½Ã»ï¿½ÐµÄºï¿½
 		for (int i = 0; i < numall1.length; i++) {
 			for (int j = 0; j < numall2.length; j++) {
 				if (numall1[i] == numall2[j]) {
@@ -204,7 +202,7 @@ public class Test {
 				}
 			}
 		}
-		System.out.print("4ÆÚÖØ2ÂëµÄÓÐ(ÖØµãÖØµã)£º");
+		System.out.print("4ï¿½ï¿½ï¿½ï¿½2ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½Øµï¿½ï¿½Øµï¿½)ï¿½ï¿½");
 		sort(numchong2);
 
 		for (int i = 0; i < numall1.length; i++) {
@@ -231,7 +229,7 @@ public class Test {
 			}
 		}
 
-		System.out.print("4ÆÚÖØ3ÂëµÄÓÐ£º");
+		System.out.print("4ï¿½ï¿½ï¿½ï¿½3ï¿½ï¿½ï¿½ï¿½Ð£ï¿½");
 		sort(numchong3);
 
 		for (int i = 1; i < 34; i++) {
@@ -251,7 +249,7 @@ public class Test {
 				numchong[k6++] = i;
 			}
 		}
-		System.out.print("3ÆÚ¶¼Ã»ÓÐ³öÏÖµÄºÅÂë£º");
+		System.out.print("3ï¿½Ú¶ï¿½Ã»ï¿½Ð³ï¿½ï¿½ÖµÄºï¿½ï¿½ë£º");
 		sort(numchong);
 		k5 = 0;
 		for (int p = 0; p < numchong2.length; p++) {
@@ -261,15 +259,15 @@ public class Test {
 				}
 			}
 		}
-		System.out.print("É±ºÅºóÊ£ÓàµÄºÅÂëºÍ³öÏÖ2ÂëµÄÖØºÅ£¨ÖØµãÖØµã£©£º");
+		System.out.print("É±ï¿½Åºï¿½Ê£ï¿½ï¿½Äºï¿½ï¿½ï¿½Í³ï¿½ï¿½ï¿½2ï¿½ï¿½ï¿½ï¿½ØºÅ£ï¿½ï¿½Øµï¿½ï¿½Øµã£©ï¿½ï¿½");
 		sort(numchong1);
 		k5 = 0;
 		for (int i = 0; i < kill.length; i++) {
 			numchong2[k5++] = kill[i];
 		}
-		System.out.print("É±ºÅºÍ³öÏÖ2ÂëµÄÖØºÅ£¨ºÅÂë»ù±¾¶¼ÔÚÕâÀï£©£º");
+		System.out.print("É±ï¿½ÅºÍ³ï¿½ï¿½ï¿½2ï¿½ï¿½ï¿½ï¿½ØºÅ£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï£©ï¿½ï¿½");
 		sort(numchong2);
-		System.out.print("¾ø²»»á³öÏÖµÄºÅÂë£º");
+		System.out.print("ï¿½ï¿½ï¿½ï¿½ï¿½ÖµÄºï¿½ï¿½ë£º");
 		for (int i = 1; i < 34; i++) {
 			int g = 0;
 			for (int j = 0; j < numchong2.length; j++) {

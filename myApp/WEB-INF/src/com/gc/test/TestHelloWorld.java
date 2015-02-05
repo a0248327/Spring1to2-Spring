@@ -23,17 +23,14 @@ import com.gc.impl.Hello;
 import com.gc.impl.TimeBookInterface;
 
 public class TestHelloWorld {
-	public static void main(String[] args) throws InstantiationException,
-			IllegalAccessException, ClassNotFoundException {
-		ApplicationContext actx = new FileSystemXmlApplicationContext(
-				"config.xml");
-		TimeBookInterface timeBookProxy = (TimeBookInterface) actx
-				.getBean("timeBook");
-		timeBookProxy.doAuditing("ÕÅÈý");
+	public static void main(String[] args) throws InstantiationException, IllegalAccessException, ClassNotFoundException {
+		ApplicationContext actx = new FileSystemXmlApplicationContext("config.xml");
+		TimeBookInterface timeBookProxy = (TimeBookInterface) actx.getBean("timeBook");
+		timeBookProxy.doAuditing("ï¿½ï¿½ï¿½ï¿½");
 
 		// FinanceInterface financeProxy =
 		// (FinanceInterface)actx.getBean("logProxy1");
-		// financeProxy.doCheck("ÀîËÄ");
+		// financeProxy.doCheck("ï¿½ï¿½ï¿½ï¿½");
 		// Object[] objs = new Object[] {"HelloWorld",
 		// Calendar.getInstance().getTime()};
 		// String msg = actx.getMessage("HelloWorld", objs, Locale.US);
@@ -42,29 +39,32 @@ public class TestHelloWorld {
 		// Log log = (Log)actx.getBean("log");
 		// log.log("gf");
 
-		// TimeBookProxy timeBookProxy = new TimeBookProxy(new TimeBook());
-		// timeBookProxy .doAuditing("ÕÅÈý");
+		// TimeBookProxy timeBookProxy = new TimeBookProxy(new
+		// TimeBook());
+		// timeBookProxy .doAuditing("ï¿½ï¿½ï¿½ï¿½");
 
 		// LogProxy logProxy = new LogProxy();
 		// TimeBookInterface timeBookProxy =
 		// (TimeBookInterface)logProxy.bind(new TimeBook());
-		// timeBookProxy.doAuditing("ÕÅÈý");
+		// timeBookProxy.doAuditing("ï¿½ï¿½ï¿½ï¿½");
 
-		// HelloWorld helloWorld = (HelloWorld) actx.getBean("HelloWorld");
+		// HelloWorld helloWorld = (HelloWorld)
+		// actx.getBean("HelloWorld");
 		//
 		// //System.out.println(helloWorld.getDate() + " " +
 		// helloWorld.getMsg());
 		//
-		// Object obj = Class.forName("com.gc.action.HelloWorld").newInstance();
+		// Object obj =
+		// Class.forName("com.gc.action.HelloWorld").newInstance();
 		// BeanWrapper bw = new BeanWrapperImpl(obj);
 		// bw.setPropertyValue("msg", "gf");
 		// bw.setPropertyValue("date", new Date());
 		// System.out.println(bw.getPropertyValue("date") + " " +
 		// bw.getPropertyValue("msg"));
 		// HelloWorld helloWorld = new HelloWorld();
-		// //ÀûÓÃset·½·¨½«HelloWord×¢Èë³ÌÐòÖÐ
+		// //ï¿½ï¿½ï¿½ï¿½setï¿½ï¿½ï¿½ï¿½ï¿½ï¿½HelloWord×¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		// helloWorld.setMsg("HelloWorld");
-		// ÀûÓÃget·½·¨»ñÈ¡¸Õ²Å×¢ÈëµÄHelloWorld
+		// ï¿½ï¿½ï¿½ï¿½getï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¡ï¿½Õ²ï¿½×¢ï¿½ï¿½ï¿½HelloWorld
 		// System.out.println(helloWorld.getMsg());
 
 		// ApplicationContext actx=new

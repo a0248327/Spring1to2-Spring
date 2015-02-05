@@ -14,14 +14,12 @@ public class LogAround implements MethodInterceptor {
 	private Logger logger = Logger.getLogger(this.getClass().getName());
 
 	public Object invoke(MethodInvocation methodInvocation) throws Throwable {
-		logger.log(Level.INFO, methodInvocation.getArguments()[0]
-				+ " ¿ªÊ¼ÉóºËÊý¾Ý....");
+		logger.log(Level.INFO, methodInvocation.getArguments()[0] + " ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½....");
 		try {
 			Object result = methodInvocation.proceed();
 			return result;
 		} finally {
-			logger.log(Level.INFO, methodInvocation.getArguments()[0]
-					+ " ÉóºËÊý¾Ý½áÊø....");
+			logger.log(Level.INFO, methodInvocation.getArguments()[0] + " ï¿½ï¿½ï¿½ï¿½ï¿½Ý½ï¿½ï¿½ï¿½....");
 		}
 	}
 }

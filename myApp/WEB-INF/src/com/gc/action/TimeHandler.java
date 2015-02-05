@@ -18,18 +18,14 @@ public class TimeHandler implements MethodInterceptor {
 
 	public Object invoke(MethodInvocation methodInvocation) throws Throwable {
 		long procTime = System.currentTimeMillis();
-		logger.log(Level.INFO, methodInvocation.getArguments()[0] + " ¿ªÊ¼Ö´ÐÐ "
-				+ methodInvocation.getMethod() + " ·½·¨");
+		logger.log(Level.INFO, methodInvocation.getArguments()[0] + " ï¿½ï¿½Ê¼Ö´ï¿½ï¿½ " + methodInvocation.getMethod() + " ï¿½ï¿½ï¿½ï¿½");
 		try {
 			Object result = methodInvocation.proceed();
 			return result;
 		} finally {
 			procTime = System.currentTimeMillis() - procTime;
-			logger.log(Level.INFO, methodInvocation.getArguments()[0] + " Ö´ÐÐ "
-					+ methodInvocation.getMethod() + " ·½·¨½áÊø");
-			logger.log(Level.INFO, "Ö´ÐÐ "
-					+ methodInvocation.getMethod().getName() + " ·½·¨¹²ÓÃÁË "
-					+ procTime + "ºÁÃë");
+			logger.log(Level.INFO, methodInvocation.getArguments()[0] + " Ö´ï¿½ï¿½ " + methodInvocation.getMethod() + " ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+			logger.log(Level.INFO, "Ö´ï¿½ï¿½ " + methodInvocation.getMethod().getName() + " ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ " + procTime + "ï¿½ï¿½ï¿½ï¿½");
 		}
 	}
 }

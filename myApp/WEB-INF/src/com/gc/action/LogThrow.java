@@ -14,8 +14,7 @@ import org.springframework.aop.ThrowsAdvice;
 public class LogThrow implements ThrowsAdvice {
 	private Logger logger = Logger.getLogger(this.getClass().getName());
 
-	public void afterThrowing(Method method, Object[] args, Object target,
-			Throwable subclass) throws Throwable {
-		logger.log(Level.INFO, args[0] + " ÉóºËÊý¾ÝÓÐÒì³£Å×³ö...." + subclass);
+	public void afterThrowing(Method method, Object[] args, Object target, Throwable subclass) throws Throwable {
+		logger.log(Level.INFO, args[0] + " ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ì³£ï¿½×³ï¿½...." + subclass);
 	}
 }

@@ -13,8 +13,7 @@ public class Log implements ApplicationContextAware {
 
 	private ApplicationContext applicationContext;
 
-	public void setApplicationContext(ApplicationContext applicationContext)
-			throws BeansException {
+	public void setApplicationContext(ApplicationContext applicationContext) throws BeansException {
 		this.applicationContext = applicationContext;
 	}
 
