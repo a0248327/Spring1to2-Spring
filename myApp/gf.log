@@ -1,0 +1,388 @@
+[INFO ] 2006-03-03 10:37:56 com.gc.action.LogAfter - 张三 审核数据完成....
+[INFO ] 2006-03-03 11:59:08 com.gc.action.LogAfter - 张三 审核数据完成....
+[INFO ] 2006-03-03 13:20:51 com.gc.action.TimeHandler -  2006-03-03 13:20:51 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:20:51 com.gc.action.TimeHandler -  2006-03-03 13:20:51 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:20:51 com.gc.action.TimeHandler - 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:20:51 com.gc.action.TimeHandler -  2006-03-03 13:20:51 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:20:51 com.gc.action.TimeHandler -  2006-03-03 13:20:51 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:20:51 com.gc.action.TimeHandler - 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:20:51 com.gc.action.TimeHandler -  2006-03-03 13:20:51 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:20:51 com.gc.action.TimeHandler -  2006-03-03 13:20:51 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:20:51 com.gc.action.TimeHandler - 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:22:08 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:22:08 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:22:08 com.gc.action.TimeHandler - 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:22:08 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:22:08 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:22:08 com.gc.action.TimeHandler - 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:22:08 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:22:08 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:22:08 com.gc.action.TimeHandler - 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:22:49 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:22:49 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:22:49 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:22:49 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:22:49 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:22:49 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:22:49 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:22:49 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:22:49 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:23:27 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:23:27 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:23:27 com.gc.action.TimeHandler - 执行 1025 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:23:27 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:23:27 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:23:27 com.gc.action.TimeHandler - 执行 1025 方法共用了 15毫秒
+[INFO ] 2006-03-03 13:23:27 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:23:27 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:23:27 com.gc.action.TimeHandler - 执行 1025 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:23:48 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:23:48 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:23:48 com.gc.action.TimeHandler - 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:23:48 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:23:48 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:23:48 com.gc.action.TimeHandler - 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:23:48 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:23:48 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:23:48 com.gc.action.TimeHandler - 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:24:14 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:24:14 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:24:14 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:24:14 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:24:14 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:24:14 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 16毫秒
+[INFO ] 2006-03-03 13:24:14 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:24:14 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:24:14 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:27:16 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:27:16 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:27:16 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 16毫秒
+[INFO ] 2006-03-03 13:27:16 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:27:16 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:27:16 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:27:16 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:27:16 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:27:16 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:28:11 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:28:11 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:28:11 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:28:11 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:28:11 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:28:11 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 15毫秒
+[INFO ] 2006-03-03 13:28:11 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:28:11 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:28:11 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:28:17 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:28:17 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:28:17 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:28:17 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:28:17 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:28:17 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 15毫秒
+[INFO ] 2006-03-03 13:28:17 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:28:17 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:28:17 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:28:40 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:28:40 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:28:40 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:28:40 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:28:40 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:28:40 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 15毫秒
+[INFO ] 2006-03-03 13:28:40 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:28:40 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:28:40 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:30:06 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:30:06 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:30:06 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 16毫秒
+[INFO ] 2006-03-03 13:30:06 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:30:06 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:30:06 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:30:06 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:30:06 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:30:06 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:30:42 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:30:42 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:30:42 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 15毫秒
+[INFO ] 2006-03-03 13:30:42 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:30:42 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:30:42 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 16毫秒
+[INFO ] 2006-03-03 13:30:42 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:30:42 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:30:42 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 16毫秒
+[INFO ] 2006-03-03 13:31:15 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:31:15 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:31:15 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 188毫秒
+[INFO ] 2006-03-03 13:31:15 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:31:15 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:31:15 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 16毫秒
+[INFO ] 2006-03-03 13:31:15 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:31:15 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:31:15 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:31:43 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:31:43 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:31:43 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 172毫秒
+[INFO ] 2006-03-03 13:31:43 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:31:43 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:31:43 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 406毫秒
+[INFO ] 2006-03-03 13:31:43 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:31:44 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:31:44 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 531毫秒
+[INFO ] 2006-03-03 13:33:48 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:33:49 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:33:49 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 172毫秒
+[INFO ] 2006-03-03 13:33:49 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:33:49 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:33:49 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 375毫秒
+[INFO ] 2006-03-03 13:33:49 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:33:49 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:33:49 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 516毫秒
+[INFO ] 2006-03-03 13:41:01 com.gc.action.TimeHandler -  开始执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:41:01 com.gc.action.TimeHandler -  执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:41:01 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 203毫秒
+[INFO ] 2006-03-03 13:41:01 com.gc.action.TimeHandler -  开始执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:41:01 com.gc.action.TimeHandler -  执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:41:01 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 360毫秒
+[INFO ] 2006-03-03 13:41:01 com.gc.action.TimeHandler -  开始执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:41:02 com.gc.action.TimeHandler -  执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:41:02 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 515毫秒
+[INFO ] 2006-03-03 13:42:50 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:42:50 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:42:50 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 172毫秒
+[INFO ] 2006-03-03 13:42:50 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:42:50 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:42:50 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 344毫秒
+[INFO ] 2006-03-03 13:42:50 com.gc.action.TimeHandler -  开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:42:50 com.gc.action.TimeHandler -  执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:42:50 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:42:50 com.gc.action.ExceptionHandler -  执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 13:50:07 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:50:08 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:50:08 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 188毫秒
+[INFO ] 2006-03-03 13:50:08 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:50:08 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:50:08 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 13:50:08 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:50:08 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:50:08 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:50:08 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 13:50:40 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:50:40 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:50:40 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 171毫秒
+[INFO ] 2006-03-03 13:50:40 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:50:40 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:50:40 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 13:50:40 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:50:40 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:50:40 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:50:40 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 13:50:43 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:50:43 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:50:43 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 172毫秒
+[INFO ] 2006-03-03 13:50:43 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:50:43 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:50:43 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 13:50:43 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:50:43 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:50:43 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:50:43 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 13:50:46 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:50:46 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:50:46 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 203毫秒
+[INFO ] 2006-03-03 13:50:46 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:50:46 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:50:46 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 360毫秒
+[INFO ] 2006-03-03 13:50:46 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:50:46 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:50:46 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:50:46 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 13:51:16 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:51:17 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:51:17 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 172毫秒
+[INFO ] 2006-03-03 13:51:17 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:51:17 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:51:17 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 13:51:17 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:51:17 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:51:17 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 16毫秒
+[INFO ] 2006-03-03 13:51:17 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 13:51:19 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:51:19 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:51:19 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 171毫秒
+[INFO ] 2006-03-03 13:51:19 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:51:20 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:51:20 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 360毫秒
+[INFO ] 2006-03-03 13:51:20 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:51:20 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:51:20 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:51:20 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 13:57:37 com.gc.action.TimeHandler - 张三 开始执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:57:38 com.gc.action.TimeHandler - 张三 执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:57:38 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 172毫秒
+[INFO ] 2006-03-03 13:57:38 com.gc.action.TimeHandler - 李四 开始执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:57:38 com.gc.action.TimeHandler - 李四 执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:57:38 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 360毫秒
+[INFO ] 2006-03-03 13:57:38 com.gc.action.TimeHandler - 王五 开始执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:57:38 com.gc.action.TimeHandler - 王五 执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:57:38 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:57:38 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 13:57:56 com.gc.action.TimeHandler - 张三 开始执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:57:56 com.gc.action.TimeHandler - 张三 执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:57:56 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 187毫秒
+[INFO ] 2006-03-03 13:57:56 com.gc.action.TimeHandler - 李四 开始执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:57:56 com.gc.action.TimeHandler - 李四 执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:57:56 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 13:57:56 com.gc.action.TimeHandler - 王五 开始执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:57:56 com.gc.action.TimeHandler - 王五 执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:57:56 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:57:56 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 13:57:58 com.gc.action.TimeHandler - 张三 开始执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:57:58 com.gc.action.TimeHandler - 张三 执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:57:58 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 187毫秒
+[INFO ] 2006-03-03 13:57:58 com.gc.action.TimeHandler - 李四 开始执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:57:59 com.gc.action.TimeHandler - 李四 执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:57:59 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 360毫秒
+[INFO ] 2006-03-03 13:57:59 com.gc.action.TimeHandler - 王五 开始执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:57:59 com.gc.action.TimeHandler - 王五 执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:57:59 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:57:59 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 13:58:01 com.gc.action.TimeHandler - 张三 开始执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:58:01 com.gc.action.TimeHandler - 张三 执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:58:01 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 187毫秒
+[INFO ] 2006-03-03 13:58:01 com.gc.action.TimeHandler - 李四 开始执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:58:01 com.gc.action.TimeHandler - 李四 执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:58:01 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 375毫秒
+[INFO ] 2006-03-03 13:58:01 com.gc.action.TimeHandler - 王五 开始执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:58:01 com.gc.action.TimeHandler - 王五 执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:58:01 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:58:01 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 13:58:03 com.gc.action.TimeHandler - 张三 开始执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:58:03 com.gc.action.TimeHandler - 张三 执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:58:03 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 203毫秒
+[INFO ] 2006-03-03 13:58:03 com.gc.action.TimeHandler - 李四 开始执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:58:04 com.gc.action.TimeHandler - 李四 执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:58:04 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 360毫秒
+[INFO ] 2006-03-03 13:58:04 com.gc.action.TimeHandler - 王五 开始执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:58:04 com.gc.action.TimeHandler - 王五 执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:58:04 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:58:04 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 13:58:16 com.gc.action.TimeHandler - 张三 开始执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 13:58:16 com.gc.action.TimeHandler - 张三 执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:58:16 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 172毫秒
+[INFO ] 2006-03-03 13:58:16 com.gc.action.TimeHandler - 李四 开始执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 13:58:16 com.gc.action.TimeHandler - 李四 执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:58:16 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 13:58:16 com.gc.action.TimeHandler - 王五 开始执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 13:58:16 com.gc.action.TimeHandler - 王五 执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 13:58:16 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 13:58:16 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 14:08:19 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 14:08:19 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:08:19 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 172毫秒
+[INFO ] 2006-03-03 14:08:19 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 14:08:20 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:08:20 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 14:08:20 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 14:08:20 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:08:20 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 14:10:18 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:18 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:18 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 188毫秒
+[INFO ] 2006-03-03 14:10:18 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:19 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:19 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 14:10:19 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:19 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:19 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 14:10:34 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:34 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:34 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 172毫秒
+[INFO ] 2006-03-03 14:10:34 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:34 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:34 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 14:10:34 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:34 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:34 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 14:10:36 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:37 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:37 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 188毫秒
+[INFO ] 2006-03-03 14:10:37 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:37 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:37 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 14:10:37 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:37 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:37 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 14:10:39 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:39 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:39 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 188毫秒
+[INFO ] 2006-03-03 14:10:39 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:40 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:40 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 14:10:40 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:40 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:40 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 14:10:42 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:42 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:42 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 188毫秒
+[INFO ] 2006-03-03 14:10:42 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:42 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:42 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 14:10:42 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:42 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:42 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 14:10:44 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:44 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:44 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 187毫秒
+[INFO ] 2006-03-03 14:10:44 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:45 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:45 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 360毫秒
+[INFO ] 2006-03-03 14:10:45 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:45 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:45 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 14:10:48 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:49 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:49 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 172毫秒
+[INFO ] 2006-03-03 14:10:49 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:49 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:49 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 14:10:49 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:49 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:49 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 14:10:52 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:52 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:52 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 187毫秒
+[INFO ] 2006-03-03 14:10:52 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:52 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:52 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 14:10:52 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 14:10:52 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:10:52 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 14:12:00 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 14:19:46 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 14:19:46 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:19:46 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 172毫秒
+[INFO ] 2006-03-03 14:19:46 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 14:19:47 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:19:47 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 359毫秒
+[INFO ] 2006-03-03 14:19:47 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 14:19:47 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:19:47 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 14:20:16 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 14:22:17 com.gc.action.TimeHandler - 张三 开始执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 14:22:17 com.gc.action.TimeHandler - 张三 执行 public void com.gc.action.Logic2.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:22:17 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 187毫秒
+[INFO ] 2006-03-03 14:22:17 com.gc.action.TimeHandler - 李四 开始执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 14:22:18 com.gc.action.TimeHandler - 李四 执行 public void com.gc.action.Logic2.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:22:18 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 375毫秒
+[INFO ] 2006-03-03 14:22:18 com.gc.action.TimeHandler - 王五 开始执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 14:22:18 com.gc.action.TimeHandler - 王五 执行 public void com.gc.action.Logic2.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:22:18 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 14:22:18 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
+[INFO ] 2006-03-03 14:22:50 com.gc.action.TimeHandler - 张三 开始执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法
+[INFO ] 2006-03-03 14:22:51 com.gc.action.TimeHandler - 张三 执行 public abstract void com.gc.impl.LogicInterface.doInsert(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:22:51 com.gc.action.TimeHandler - 执行 doInsert 方法共用了 218毫秒
+[INFO ] 2006-03-03 14:22:51 com.gc.action.TimeHandler - 李四 开始执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法
+[INFO ] 2006-03-03 14:22:51 com.gc.action.TimeHandler - 李四 执行 public abstract void com.gc.impl.LogicInterface.doUpdate(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:22:51 com.gc.action.TimeHandler - 执行 doUpdate 方法共用了 375毫秒
+[INFO ] 2006-03-03 14:22:51 com.gc.action.TimeHandler - 王五 开始执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法
+[INFO ] 2006-03-03 14:22:51 com.gc.action.TimeHandler - 王五 执行 public abstract void com.gc.impl.LogicInterface.doDelete(java.lang.String) 方法结束
+[INFO ] 2006-03-03 14:22:51 com.gc.action.TimeHandler - 执行 doDelete 方法共用了 0毫秒
+[INFO ] 2006-03-03 14:22:51 com.gc.action.ExceptionHandler - 王五 执行 doDelete 时有异常抛出....java.lang.ArithmeticException: / by zero
